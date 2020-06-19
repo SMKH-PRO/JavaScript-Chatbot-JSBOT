@@ -37,3 +37,6 @@ Random Replies!
 
 
 Feel Free to use this in your project! i just made it for fun and practice !
+
+
+HERE's UPDATED VERSION: https://github.com/SMKH-PRO/JSBOT
